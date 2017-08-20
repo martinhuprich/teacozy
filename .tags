@@ -1,0 +1,20 @@
+html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<html>$/;"	function	line:2
+head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+link	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <link rel="stylesheet" href="css\/index.css">$/;"	function	line:5
+title	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <title>Tea Cozy<\/title>$/;"	function	line:6
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <body>$/;"	function	line:8
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<header>$/;"	function	line:10
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="header">$/;"	function	line:11
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="logo">$/;"	function	line:12
+img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^       <img src="https:\/\/s3.amazonaws.com\/codecademy-content\/courses\/freelance-1\/unit-4\/img-tea-cozy-logo.png" alt="logo">$/;"	function	line:13
+nav	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <nav class ="header-nav">$/;"	function	line:15
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Mission<\/span>$/;"	function	line:16
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Featured Tea<\/span>$/;"	function	line:17
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Locations<\/span>$/;"	function	line:18
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:2
+/*div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*div {$/;"	function	line:10
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ header {$/;"	function	line:15
+.header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.header {$/;"	function	line:20
+.logo img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .logo img {$/;"	function	line:28
+.header-nav span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .header-nav span {$/;"	function	line:33

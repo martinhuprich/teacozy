@@ -1,1 +1,37 @@
-css
+/* general font settings for complete page */
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+/* for dev purposes added borders to see positions of conatiners */
+/*div {
+  border: 1px solid white;
+}
+*/
+/* header section with logo and links to sub sections */
+ header {
+   height: 69px;
+   background-color: black;
+ }
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid seashell;
+}
+/* logo on top left side of page */
+ .logo img {
+   height: 50px;
+   margin-left: 10px;
+ }
+
+ .header-nav span {
+   text-decoration: underline;
+   margin-left: 20px;
+
+ }
