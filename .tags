@@ -39,6 +39,25 @@ h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="tea-of-month teaser-content" id="image2">$/;"	function	line:59
 img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <img src="https:\/\/s3.amazonaws.com\/codecademy-content\/courses\/freelance-1\/unit-4\/img-bedford-bizarre.jpg" alt="">$/;"	function	line:60
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h4>Bedford Bizarre Tea<\/h4>$/;"	function	line:61
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<div class="location-background">$/;"	function	line:67
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="location text-content">$/;"	function	line:68
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h2>Locations<\/h2>$/;"	function	line:69
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="location-list">$/;"	function	line:71
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="location-item" id="entry-one">$/;"	function	line:72
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h3>Downtown<\/h3>$/;"	function	line:73
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>384 West 4th St<\/p>$/;"	function	line:74
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>Suite 108<\/p>$/;"	function	line:75
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>Portland, Maine<\/p>$/;"	function	line:76
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="location-item" id="entry-two">$/;"	function	line:78
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h3>East Bayside<\/h3>$/;"	function	line:79
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>3433 Phisherman's Avenue<\/p>$/;"	function	line:80
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>(Northwest Corner)<\/p>$/;"	function	line:81
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>Portland, Maine<\/p>$/;"	function	line:82
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="location-item" id="entry-three">$/;"	function	line:84
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h3>Oakdale<\/h3>$/;"	function	line:85
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>515 Crescent Avenue<\/p>$/;"	function	line:86
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>Second Floor<\/p>$/;"	function	line:87
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <p>Portland, Maine<\/p>$/;"	function	line:88
 html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^html {$/;"	function	line:3
 body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:6
 /*.separator	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*.separator {$/;"	function	line:16
@@ -56,8 +75,14 @@ header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.cs
 .tea-of-month .text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .text-content {$/;"	function	line:101
 .teaser-section	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section {$/;"	function	line:109
 .teaser-section  .two-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section  .two-items {$/;"	function	line:115
-.tea-of-month .teaser-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content {$/;"	function	line:120
-.tea-of-month .teaser-content img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content img {$/;"	function	line:124
-.tea-of-month .teaser-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content h4 {$/;"	function	line:130
-#image1	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image1 {$/;"	function	line:134
-#image2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image2 {$/;"	function	line:138
+.tea-of-month .teaser-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content {$/;"	function	line:121
+.tea-of-month .teaser-content img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content img {$/;"	function	line:125
+.tea-of-month .teaser-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content h4 {$/;"	function	line:131
+#image1	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image1 {$/;"	function	line:137
+#image2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image2 {$/;"	function	line:141
+.location-background	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-background {$/;"	function	line:147
+.location.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location.text-content h2 {$/;"	function	line:157
+.location-list	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-list {$/;"	function	line:162
+.location-item	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-item {$/;"	function	line:169
+#entry-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-one {$/;"	function	line:175
+#entry-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-three {$/;"	function	line:180
