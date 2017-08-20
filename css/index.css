@@ -1,4 +1,8 @@
 /* general font settings for complete page */
+
+html {
+  width: 1300px;
+}
 body {
   font-family: Helvetica;
   font-size: 22px;
@@ -6,6 +10,16 @@ body {
   background-color: black;
   opacity: 0.9;
 }
+/* separator div for horizontal lines */
+
+/*.separator {
+  height: 0px;
+  width: 2000px;
+  border-bottom: 1px solid seashell;
+  position: relative;
+  top: -5px;
+}*/
+
 /* for dev purposes added borders to see positions of conatiners */
 /*div {
   border: 1px solid white;
@@ -15,6 +29,7 @@ body {
  header {
    height: 69px;
    background-color: black;
+
  }
 
 .header {
@@ -22,7 +37,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  width: 1300px;
+  z-index: 10;
   border-bottom: 1px solid seashell;
+  background-color: black;
+  
 }
 /* logo on top left side of page */
  .logo img {
@@ -34,4 +54,36 @@ body {
    text-decoration: underline;
    margin-left: 20px;
 
+ }
+
+ /* Mission main section*/
+/* container with main content used as flex container*/
+ .mission-teaser {
+   display: flex;
+   justify-content: center;
+   z-index: 5;
+ }
+
+ /* background image for main section - used as flex item of mission-teaser and flex container for text-content*/
+ .mission-main.image-content {
+   width: 1200px;
+   height: 700px;
+   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+   display: flex;
+   align-items: center;
+ }
+/* Text inside main Teaser as flex item */
+ .mission-main.text-content {
+   justify-content: space-around;
+   background-color: black;
+   width: 1200px;
+   text-align: center;
+ }
+/* reducing height of text container in main section */
+ .mission-main.text-content h2 {
+   margin-top: 15px;
+ }
+
+ .mission-main.text-content h4 {
+   margin-bottom: 15px;
  }

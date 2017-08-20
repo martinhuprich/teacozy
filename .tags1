@@ -4,9 +4,16 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:2
-/*div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*div {$/;"	function	line:10
-header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ header {$/;"	function	line:15
-.header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.header {$/;"	function	line:20
-.logo img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .logo img {$/;"	function	line:28
-.header-nav span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .header-nav span {$/;"	function	line:33
+html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^html {$/;"	function	line:3
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:6
+/*.separator	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*.separator {$/;"	function	line:15
+/*div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*div {$/;"	function	line:24
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ header {$/;"	function	line:29
+.header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.header {$/;"	function	line:35
+.logo img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .logo img {$/;"	function	line:48
+.header-nav span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .header-nav span {$/;"	function	line:53
+.mission-teaser	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-teaser {$/;"	function	line:61
+.mission-main.image-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.image-content {$/;"	function	line:68
+.mission-main.text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content {$/;"	function	line:76
+.mission-main.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h2 {$/;"	function	line:83
+.mission-main.text-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h4 {$/;"	function	line:87
