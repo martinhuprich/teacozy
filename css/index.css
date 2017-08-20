@@ -181,3 +181,19 @@ body {
   margin-left: 40px;
   margin-right: auto;
 }
+
+/*  footer section */
+
+.footer {
+  text-align: center;
+  height: 200px;
+}
+
+.footer h2 {
+  margin-top: 10px;
+}
+
+.footer .copyright {
+  text-align: left;
+  margin-left: 20px;
+}

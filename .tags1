@@ -32,3 +32,6 @@ header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.cs
 .location-item	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-item {$/;"	function	line:169
 #entry-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-one {$/;"	function	line:175
 #entry-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-three {$/;"	function	line:180
+.footer	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer {$/;"	function	line:187
+.footer h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer h2 {$/;"	function	line:192
+.footer .copyright	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer .copyright {$/;"	function	line:196
