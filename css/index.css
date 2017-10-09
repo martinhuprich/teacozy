@@ -11,21 +11,7 @@ body {
   opacity: 0.9;
   margin: 0 auto;
 }
-/* separator div for horizontal lines */
 
-/*.separator {
-  height: 0px;
-  width: 2000px;
-  border-bottom: 1px solid seashell;
-  position: relative;
-  top: -5px;
-}*/
-
-/* for dev purposes added borders to see positions of conatiners */
-/*div {
-  border: 1px solid white;
-}
-*/
 /* header section with logo and links to sub sections */
  header {
    height: 69px;
@@ -51,9 +37,10 @@ body {
    margin-left: 10px;
  }
 
- .header-nav span {
+ .header-nav a {
    text-decoration: underline;
    margin-left: 20px;
+   color: seashell;
 
  }
 
@@ -192,7 +179,7 @@ body {
 .footer h2 {
   margin-top: 10px;
 }
-
+/*  copyright text in the lower left corner */
 .footer .copyright {
   text-align: left;
   margin-left: 20px;

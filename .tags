@@ -1,3 +1,34 @@
+html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^html {$/;"	function	line:3
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:6
+/*.separator	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*.separator {$/;"	function	line:16
+/*div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*div {$/;"	function	line:25
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ header {$/;"	function	line:30
+.header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.header {$/;"	function	line:36
+.logo img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .logo img {$/;"	function	line:49
+.header-nav a	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .header-nav a {$/;"	function	line:54
+.mission-teaser	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-teaser {$/;"	function	line:63
+.mission-main.image-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.image-content {$/;"	function	line:70
+.mission-main.text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content {$/;"	function	line:78
+.mission-main.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h2 {$/;"	function	line:85
+.mission-main.text-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h4 {$/;"	function	line:89
+.tea-of-month	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month {$/;"	function	line:95
+.tea-of-month .text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .text-content {$/;"	function	line:102
+.teaser-section	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section {$/;"	function	line:110
+.teaser-section  .two-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section  .two-items {$/;"	function	line:116
+.tea-of-month .teaser-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content {$/;"	function	line:122
+.tea-of-month .teaser-content img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content img {$/;"	function	line:126
+.tea-of-month .teaser-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content h4 {$/;"	function	line:132
+#image1	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image1 {$/;"	function	line:138
+#image2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image2 {$/;"	function	line:142
+.location-background	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-background {$/;"	function	line:148
+.location.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location.text-content h2 {$/;"	function	line:158
+.location-list	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-list {$/;"	function	line:163
+.location-item	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-item {$/;"	function	line:170
+#entry-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-one {$/;"	function	line:176
+#entry-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-three {$/;"	function	line:181
+.footer	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer {$/;"	function	line:188
+.footer h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer h2 {$/;"	function	line:193
+.footer .copyright	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer .copyright {$/;"	function	line:197
 html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<html>$/;"	function	line:2
 head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <head>$/;"	function	line:3
 meta	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
@@ -9,18 +40,18 @@ div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="logo">$/;"	function	line:12
 img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^       <img src="https:\/\/s3.amazonaws.com\/codecademy-content\/courses\/freelance-1\/unit-4\/img-tea-cozy-logo.png" alt="logo">$/;"	function	line:13
 nav	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <nav class ="header-nav">$/;"	function	line:15
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Mission<\/span>$/;"	function	line:16
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Featured Tea<\/span>$/;"	function	line:17
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span>Locations<\/span>$/;"	function	line:18
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span><a href="#mission">Mission<\/a><\/span>$/;"	function	line:16
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span><a href="#featured">Featured Tea<\/a><\/span>$/;"	function	line:17
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <span><a href="#locations">Locations<\/a><\/span>$/;"	function	line:18
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<div class="separator"><\/div>$/;"	function	line:23
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^ <div class="mission-teaser">$/;"	function	line:25
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^ <div class="mission-teaser" id="mission">$/;"	function	line:25
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^   <div class="mission-main image-content">$/;"	function	line:26
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^   <div class="mission-main text-content">$/;"	function	line:27
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^     <h2>Our Mission<\/h2>$/;"	function	line:28
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^     <h4>Handpicked, Artisanally Curated, Free Range, Sustainable, Small Batch, Fair Trade, Organic Tea<\/h4>$/;"	function	line:29
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^ <div class="tea-of-month">$/;"	function	line:34
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^ <div class="tea-of-month" id="featured">$/;"	function	line:34
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="tea-of-month text-content">$/;"	function	line:35
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h2>Tea of the Month<\/h2>$/;"	function	line:36
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h2 >Tea of the Month<\/h2>$/;"	function	line:36
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h4>What's Steeping at The Tea Cozy?<\/h4>$/;"	function	line:37
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^ <div class="tea-of-month teaser-section three-items">$/;"	function	line:40
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="tea-of-month teaser-content">$/;"	function	line:41
@@ -39,9 +70,9 @@ h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="tea-of-month teaser-content" id="image2">$/;"	function	line:59
 img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <img src="https:\/\/s3.amazonaws.com\/codecademy-content\/courses\/freelance-1\/unit-4\/img-bedford-bizarre.jpg" alt="">$/;"	function	line:60
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h4>Bedford Bizarre Tea<\/h4>$/;"	function	line:61
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<div class="location-background">$/;"	function	line:67
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^<div class="location-background" id="locations">$/;"	function	line:67
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="location text-content">$/;"	function	line:68
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h2>Locations<\/h2>$/;"	function	line:69
+h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <h2 >Locations<\/h2>$/;"	function	line:69
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^  <div class="location-list">$/;"	function	line:71
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    <div class="location-item" id="entry-one">$/;"	function	line:72
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^      <h3>Downtown<\/h3>$/;"	function	line:73
@@ -66,34 +97,3 @@ h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^    
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^          <h5>917-555-8904<\/h5>$/;"	function	line:98
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^        <div class="footer copyright">$/;"	function	line:100
 p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/index.html	/^          <p>copyright The Tea Cozy 2017<\/p>$/;"	function	line:101
-html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^html {$/;"	function	line:3
-body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^body {$/;"	function	line:6
-/*.separator	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*.separator {$/;"	function	line:16
-/*div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^\/*div {$/;"	function	line:25
-header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ header {$/;"	function	line:30
-.header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.header {$/;"	function	line:36
-.logo img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .logo img {$/;"	function	line:49
-.header-nav span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .header-nav span {$/;"	function	line:54
-.mission-teaser	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-teaser {$/;"	function	line:62
-.mission-main.image-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.image-content {$/;"	function	line:69
-.mission-main.text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content {$/;"	function	line:77
-.mission-main.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h2 {$/;"	function	line:84
-.mission-main.text-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^ .mission-main.text-content h4 {$/;"	function	line:88
-.tea-of-month	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month {$/;"	function	line:94
-.tea-of-month .text-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .text-content {$/;"	function	line:101
-.teaser-section	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section {$/;"	function	line:109
-.teaser-section  .two-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.teaser-section  .two-items {$/;"	function	line:115
-.tea-of-month .teaser-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content {$/;"	function	line:121
-.tea-of-month .teaser-content img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content img {$/;"	function	line:125
-.tea-of-month .teaser-content h4	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.tea-of-month .teaser-content h4 {$/;"	function	line:131
-#image1	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image1 {$/;"	function	line:137
-#image2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#image2 {$/;"	function	line:141
-.location-background	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-background {$/;"	function	line:147
-.location.text-content h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location.text-content h2 {$/;"	function	line:157
-.location-list	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-list {$/;"	function	line:162
-.location-item	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.location-item {$/;"	function	line:169
-#entry-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-one {$/;"	function	line:175
-#entry-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^#entry-three {$/;"	function	line:180
-.footer	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer {$/;"	function	line:187
-.footer h2	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer h2 {$/;"	function	line:192
-.footer .copyright	/Users/martinhuprich/Documents/Martins Zeug/Projekte/TeaCozy/css/index.css	/^.footer .copyright {$/;"	function	line:196
